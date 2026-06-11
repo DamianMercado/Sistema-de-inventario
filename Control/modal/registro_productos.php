@@ -24,6 +24,14 @@
 				<label for="nombre" class="col-sm-3 control-label">Nombre</label>
 				<div class="col-sm-8">
 					<textarea class="form-control" id="nombre" name="nombre" placeholder="Nombre del producto" required maxlength="255" ></textarea>
+				</div>
+				
+				<div class="form-group">
+				<label for="nombre" class="col-sm-3 control-label">Comentario</label>
+				<div class="col-sm-8">
+					<textarea class="form-control" id="comentario" name="comentario" placeholder="Comentario del producto" required maxlength="255" ></textarea>
+				  
+				</div>
 				  
 				</div>
 			  </div>
